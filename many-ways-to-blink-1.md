@@ -47,4 +47,4 @@ The is we send then name of the variable and then we send the variable it self a
 
 * Upload the code again and see how the output changes. You see now that "Sensor Value" and "Delay in millseconds" are now printed on the same line. This is the difference betweeen "Serial.print" and "Serial.println". 
 * Put the "ln" back in and upload the code again and confirm you get back to the original behavior. The thing to take away is that you can use "Serial.print" and "Serial.println" to construct easy understood messages. 
-* You are done with this tutorial! You can now go on to tutorial 2.
+* You are done with this tutorial! You can now go on to Many Ways to Blink 2 tutorial.
