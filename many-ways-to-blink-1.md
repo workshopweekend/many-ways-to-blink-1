@@ -1,4 +1,4 @@
-# Tutorial 1: Potentiometer to LED
+# Many Ways to Blink 1: Potentiometer to LED
 
 This series of tutorials focuses on demonstrating the power of system thinking. We will start with the Potentiometer --> Arduino --> LED system you have seen in the beginning class. We will then switch out the inputs and the outputs and then change the code to adapt the input to the output. Throughout this whole series the system will have the same behavior. This is the input will control the blink rate of the output. To begin with we will go through the code you have seen before. This tutorial will focus on how the code is organized and how to see what the code is doing while it is running. 
 
@@ -26,6 +26,7 @@ The "9600" declares what speed we will communication at.
 
 * To send test you use "Serial.print" and "Serial.println". "Serial.print" sends the message leaves the cursor on on the same line. The next thing that is send will be appended to what is already there. "Serial.println" does the same except that it moves to the beginning of the next line. 
 * We use both to send debugging information. Looke at the line 
+
 
 	Serial.print("Sensor value: ");  Serial.println(sensorValue);
 
