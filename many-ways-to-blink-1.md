@@ -7,6 +7,7 @@ This series of tutorials focuses on demonstrating the power of system thinking. 
 
 # Circuit
 * Use the Fritzing diagram from the morning class to put this circuit together.
+![Pot to LED System](many-ways-to-blink-1.png)
 
 # Code
 * Cut and paste the code to a new Arduino sketch. <%= many-ways-to-blink-1.ino =%>
