@@ -16,7 +16,7 @@ This series of tutorials focuses on demonstrating the power of system thinking. 
 * This tutorial starts with code that has identical functionality as the AnalogIn example. You can see the main changes to the code<a href="https://github.com/workshopweekend/many-ways-to-blink-1/raw/master/many-ways-to-blink-1.pdf"> here</a> . The main thing that is different in this code and the AnalogIn code is that the comments are different and it uses <a href="http://arduino.cc/en/reference/serial">Serial</a>  commands. This makes it easy for us to see what the code is doing and make the code much easier to debug. This also changes the system because it adds a block. The original system was 
 
 
-![ANALOG_IN System](ANALOGIN_System V02.png)
+![ANALOG_IN System](ANALOGIN_System.png)
 
 and the new system is 
 
